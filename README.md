@@ -84,6 +84,12 @@ Each test case mocks repository behavior and verifies service method interaction
 3. Access the API documentation:
    - Local: http://localhost:8080/swagger-ui.html (if Swagger is enabled)
 
+
+
+## Access Live
+
+1. Access the API documentation:
+   - : http://thegreattech.com/swagger-ui/index.html (Swagger-UI)
 ## Screenshots
 
 ![Add Doctor API](s1.png)
