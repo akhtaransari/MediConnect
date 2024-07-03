@@ -1,5 +1,5 @@
 
-# MediConnect - Java Technical Assignment
+# MediConnect - Java Technical Assignment 
 
 MediConnect is a backend application designed to manage doctors and patients, allowing doctors to register patients through a web or mobile portal. This repository contains the implementation of backend APIs to facilitate operations such as adding doctors, adding patients, and suggesting doctors based on patient symptoms.
 
@@ -62,10 +62,8 @@ Patients are stored with:
 ### Unit Tests
 
 - **testAddDoctor:** Verifies adding a new doctor.
-- **testDeleteDoctor:** Verifies deleting a doctor.
 - **testSuggestDoctors:** Verifies suggesting doctors based on city and speciality.
 - **testAddPatient:** Verifies adding a new patient.
-- **testDeletePatient:** Verifies deleting a patient.
 - **testGetPatientById:** Verifies retrieving a patient by ID.
 
 Each test case mocks repository behavior and verifies service method interactions, ensuring correct functionality and behavior of the APIs.
