@@ -1,5 +1,5 @@
 
-# MediConnect - Java Technical Assignment 
+# MediConnect - Xcelore - Java Technical Assignment 
 
 MediConnect is a backend application designed to manage doctors and patients, allowing doctors to register patients through a web or mobile portal. This repository contains the implementation of backend APIs to facilitate operations such as adding doctors, adding patients, and suggesting doctors based on patient symptoms.
 
@@ -72,7 +72,7 @@ Each test case mocks repository behavior and verifies service method interaction
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mediconnect.git
+   git clone https://github.com/akhtaransari/mediconnect.git
    cd mediconnect
    ```
 
@@ -86,8 +86,7 @@ Each test case mocks repository behavior and verifies service method interaction
 
 ## Screenshots
 
-![Add Doctor API](docs/add-doctor-api.png)
-![Suggest Doctors API](docs/suggest-doctors-api.png)
+![Add Doctor API](s1.png)
 
 ## Contributors
 
