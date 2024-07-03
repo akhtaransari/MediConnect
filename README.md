@@ -90,7 +90,7 @@ Each test case mocks repository behavior and verifies service method interaction
 
 ## Contributors
 
-- Akhtar Ansari - Lead Developer
+- Akhtar Ansari - Backend Java Developer
 
 ## License
 
