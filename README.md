@@ -94,16 +94,7 @@ Each test case mocks repository behavior and verifies service method interaction
 ## Contributors
 
 - Akhtar Ansari - Lead Developer
-- [Contributor Name](https://github.com/contributor) - Backend Developer
 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-```
-
-In this updated version:
-- Added a section for test cases under "Test Cases" that explains the purpose of unit tests.
-- Included descriptions for each test case (`testAddDoctor`, `testDeleteDoctor`, etc.) to explain what each test verifies.
-- You can replace placeholders like `yourusername` and adjust URLs as needed for your GitHub repository.
-
-This structure provides a comprehensive overview of your project, including its functionality, validations, edge cases, technologies used, and test coverage, making it easier for others to understand and contribute to your project. Adjust the details to fit your specific project requirements and organization preferences.
